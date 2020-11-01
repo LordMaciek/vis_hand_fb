@@ -9,6 +9,7 @@ pandas = "*"
 googletrans = "*"
 matplotlib = "*"
 xlrd = "*"
+nltk = "*"
 
 [dev-packages]
 
