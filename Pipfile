@@ -10,7 +10,6 @@ googletrans = "*"
 matplotlib = "*"
 xlrd = "*"
 nltk = "*"
-seaborn = "*"
 
 [dev-packages]
 
