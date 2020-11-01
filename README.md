@@ -10,12 +10,12 @@ we only know that given post was posted within 28 days before the period recorde
 To run the notebook, clone the repo to a virtual environment on you computer,
 run </br>
 <code>
-pip install -r requirements.txt
+$pip install -r requirements.txt
 </code>
 
 After that, you should be ready to run</br>
 <code>
-jupyter lab
+$jupyter lab
 </code>
 
 Follow the instructions, and open the notebook.
