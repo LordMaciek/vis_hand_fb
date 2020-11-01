@@ -170,6 +170,6 @@ dmypy.json
 
 # Data used in analysis
 
-/data/*
+/data/*.*
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,jupyternotebooks
